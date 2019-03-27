@@ -1,5 +1,6 @@
 ipywidgets
 numpy
+openpyxl
 pandas
 scikit-learn
 scipy
